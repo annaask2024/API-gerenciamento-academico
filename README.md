@@ -36,7 +36,11 @@ O objetivo deste projeto é colocar em prática e avaliar os conhecimentos que a
 
 Ajuste as variáveis de conexão com o banco MySQL de acordo com sua máquina
 
-*db_host = 'localhost'*         # Host do servidor MySQL
-*db_user = 'root'*              # Usuário MySQL
-*db_password = 'sua_senha'*     # Senha do usuário MySQL
-*db_nome = 'facul'*             # Nome do banco de dados criado
+*db_host = 'localhost'*   
+# Host do servidor MySQL
+*db_user = 'root'*              
+# Usuário MySQL
+*db_password = 'sua_senha'*     
+# Senha do usuário MySQL
+*db_nome = 'facul'*             
+# Nome do banco de dados criado
